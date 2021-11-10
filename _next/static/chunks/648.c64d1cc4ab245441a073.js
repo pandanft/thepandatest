@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[648],{22648:function(e,a,s){s.r(a),a.default={src:"/_next/static/image/assets/panda.200f7ad0bc8e64f55bc68940e265fae3.gif",height:160,width:160}}}]);
